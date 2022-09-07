@@ -13,7 +13,7 @@ The DARA Big Data hackathon is designed to help you improve your data science sk
 > git clone https://github.com/Hack4Dev/twitter_sentiment_analysis-1.git
 ```
 
-Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/requirements.txt) file in the repo:
+Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
